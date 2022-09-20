@@ -11,6 +11,9 @@ Cloud Run, BigQuery, Virtual Machines with GPUs and Machine Learning APIs, Googl
 
 You can find an overview [here](https://cloud.google.com/products)
 
+[Feedback](https://www.surveymonkey.com/)
+
+
 Design: 
 
 [Figma](https://www.figma.com/)
