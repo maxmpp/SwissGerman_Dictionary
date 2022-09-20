@@ -12,7 +12,7 @@ Cloud Run, BigQuery, Virtual Machines with GPUs and Machine Learning APIs, Googl
 You can find an overview [here](https://cloud.google.com/products)
 
 [Feedback](https://www.surveymonkey.com/)
-
+öffne die erstellte Umfrage. Gehe zu Collect Resonses. Scrolle runter und klick auf Web Collector. Unter dem link gibt es die möglickkeit Download QR code 
 
 Design: 
 
